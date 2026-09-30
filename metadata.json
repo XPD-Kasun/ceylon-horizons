@@ -1,0 +1,6 @@
+{
+  "name": "Ceylon Horizons - Sri Lanka Travel & Bespoke Itineraries",
+  "description": "Bespoke Sri Lankan travel agency featuring curated itineraries, luxury wildlife safari camping in Yala, world-class surfing expeditions, and ancient cultural heritage tours with seamless booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
